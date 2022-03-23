@@ -5,6 +5,20 @@ A list of free audio software with descriptions and download links.
 
 ## Sample Library Loaders
 
+### Decent Sampler
+
+A FREE sampling plugin that allows you to play samples in the Decent Sampler format.
+
+Supported platforms: Windows, Mac
+
+[Download](https://www.decentsamples.com/product/decent-sampler-plugin/)
+
+### JuiceSFPlugin
+
+Supported platforms: Windows, Mac
+
+[Download](https://github.com/Birch-san/juicysfplugin/releases/tag/3.1.0)
+
 ### Sforzando
 
 Sforzando is a free, highly SFZ 2.0 compliant sample player.
@@ -12,6 +26,14 @@ Sforzando is a free, highly SFZ 2.0 compliant sample player.
 Supported platforms: Windows, Mac
 
 [Download](https://plogue.com/downloads.html)
+
+### Sfizz
+
+sfizz is a sample-based musical synthesizer. It features the well-established SFZ instrument format at its core, which permits to use existing instrument libraries, or create personal instruments with ease.
+
+Supported platforms: Linux, Windows, Mac
+
+[Download](https://sfz.tools/sfizz/downloads)
 
 ## Synthesizers
 
@@ -52,34 +74,6 @@ Plugin Formats: VST2, LV2
 # Effect Plugins
 
 ## Amp Simulators
-
-## Bundles
-
-### Kapitonov Plugins Pack
-
-Bundle of electric guitar effects plugins. Includes the following:
-
-1) tubeAmp. Advanced guitar tube amp emulator. Contains preamp, tonestack, power amp with voltage sag, cabinet emulators. Emulation parameters of each component are set by profile files.
-2) Bluedream. Booster/Tube Screamer pedal with equalizer (tonestack). Has GUI
-3) Distruction. Distortion pedal with equalizer (tonestack). Has GUI.
-4) Fuzz. Vintage fuzz pedal. Has GUI.
-5) Deadgate. Effective Noise Gate/Dead Zone effect plugin.
-6) Octaver. Analog octaver pedal.
-7) Single2Humbucker. Plugin for emulation humbucker pickup sound with single coil pickup on the guitar. Useful for playing heavy-metal on Stratocaster guitar with single coil pickups.
-
-Supported platforms: Linux (LV2), Windows & Mac (VST3)
-
-[Download](https://kpp-tubeamp.com/downloads)
-
-### dRow Plugins 
-
-Includes distortion, flanger, reverb, distortion shaper, and tremolo.
-
-Supported platforms: Linux, Mac, Windows (only Tremolo)
-
-[Downloads (Linux)](https://distrho.sourceforge.io/ports.php)
-
-[Downloads (Mac & Windows)](http://www.drowaudio.co.uk/products.php)
 
 ## Compression
 
@@ -136,3 +130,39 @@ Supported platforms: Linux, Windows
 [Download (Linux)](https://distrho.sourceforge.io/ports.php)
 
 [Download (Windows)](https://au.tomatl.org/)
+
+# Plugin Bundles
+
+### Calf Studio Gear
+
+A large bundle of Linux-exclusive plugins.
+
+Supported platforms: Linux
+
+[Download](https://calf-studio-gear.org/)
+
+### Kapitonov Plugins Pack
+
+Bundle of electric guitar effects plugins. Includes the following:
+
+1) tubeAmp. Advanced guitar tube amp emulator. Contains preamp, tonestack, power amp with voltage sag, cabinet emulators. Emulation parameters of each component are set by profile files.
+2) Bluedream. Booster/Tube Screamer pedal with equalizer (tonestack). Has GUI
+3) Distruction. Distortion pedal with equalizer (tonestack). Has GUI.
+4) Fuzz. Vintage fuzz pedal. Has GUI.
+5) Deadgate. Effective Noise Gate/Dead Zone effect plugin.
+6) Octaver. Analog octaver pedal.
+7) Single2Humbucker. Plugin for emulation humbucker pickup sound with single coil pickup on the guitar. Useful for playing heavy-metal on Stratocaster guitar with single coil pickups.
+
+Supported platforms: Linux (LV2), Windows & Mac (VST3)
+
+[Download](https://kpp-tubeamp.com/downloads)
+
+### dRow Plugins 
+
+Includes distortion, flanger, reverb, distortion shaper, and tremolo.
+
+Supported platforms: Linux, Mac, Windows (only Tremolo)
+
+[Downloads (Linux)](https://distrho.sourceforge.io/ports.php)
+
+[Downloads (Mac & Windows)](http://www.drowaudio.co.uk/products.php)
