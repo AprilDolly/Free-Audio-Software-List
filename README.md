@@ -19,7 +19,7 @@ The MT Power Drum Kit is a free drum sampler offering the powerful, high-quality
 
 Supported platforms: Windows, Mac
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://www.powerdrumkit.com/)**
 
@@ -31,7 +31,7 @@ A FREE sampling plugin that allows you to play samples in the Decent Sampler for
 
 Supported platforms: Windows, Mac
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://www.decentsamples.com/product/decent-sampler-plugin/)**
 
@@ -51,7 +51,7 @@ Sforzando is a free, highly SFZ 2.0 compliant sample player.
 
 Supported platforms: Windows, Mac
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://plogue.com/downloads.html)**
 
@@ -83,7 +83,7 @@ Sitala is a free drum plugin and standalone app
 
 Supported platforms: Linux, Windows, Mac
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://decomposer.de/sitala/#downloads)**
 
@@ -159,7 +159,7 @@ Plugin Formats: VST2, LV2
 
 Supported platforms: Windows
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://vtaramps.blogspot.com/2019/12/jump.html)**
 
@@ -173,7 +173,7 @@ Supported platforms: Windows
 
 Supported platforms: Windows
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://vtaramps.blogspot.com/2015/05/super-sonic.html)**
 
@@ -183,7 +183,7 @@ Supported platforms: Windows
 
 Supported platforms: Windows
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://pvdhp7.wordpress.com/)**
 
@@ -215,7 +215,7 @@ LeCab2 is a cabinet (guitar or bass) impulse loader.
 
 Supported platforms: Windows, 32-bit Mac
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://plugins4free.com/plugin/958/)**
 
@@ -225,7 +225,7 @@ Supported platforms: Windows, 32-bit Mac
 
 Supported platforms: Windows, Mac
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://www.stltones.com/products/stl-ignite-emissary-plug-in-bundle)**
 
@@ -237,7 +237,7 @@ Suite of professional quality audio compressors. Includes Compressive Pro (exter
 
 Supported platforms: Windows
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)**
 
@@ -247,7 +247,7 @@ External side chain analogue modeled RMS compressor with a brickwall limiter. Th
 
 Supported platforms: Windows, Mac
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)**
 
@@ -257,7 +257,7 @@ Bus compressor. "Density mkII was primarily designed to work in a typical stereo
 
 Supported platforms: Windows
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://varietyofsound.wordpress.com/downloads/)**
 
@@ -267,7 +267,7 @@ TDR Kotelnikov is a wideband dynamics processor combining high fidelity dynamic 
 
 Supported platforms: Windows, Mac
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://www.tokyodawn.net/tdr-kotelnikov/)**
 
@@ -277,7 +277,7 @@ Molotok, a simplified version of TDR Molot GE, is a musically characterful dynam
 
 Supported platforms: Windows, Mac
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://www.tokyodawn.net/tdr-molotok/)**
 
@@ -323,7 +323,7 @@ NOVA is a parallel dynamic equalizer.
 
 Supported platforms: Mac, Windows
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://www.tokyodawn.net/tdr-nova/)**
 
@@ -333,7 +333,7 @@ Supported platforms: Mac, Windows
 
 Supported platforms: Mac, Windows
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://www.tokyodawn.net/tdr-vos-slickeq/)**
 
@@ -449,7 +449,7 @@ Included plugins:
 
 Supported platforms: Windows
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download](https://www.reaper.fm/reaplugs/)**
 
@@ -498,6 +498,6 @@ Supported plugin formats:
 
 Supported platforms: Linux, Windows, Mac
 
-**Source code unavailable. [Why should you care?](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+**Source code unavailable. [Why should you care?](https://www.gnu.org/proprietary/)**
 
 **[Download (requires account)](https://www.tracktion.com/products/waveform-free)**
