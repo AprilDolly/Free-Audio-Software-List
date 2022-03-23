@@ -19,6 +19,8 @@ The MT Power Drum Kit is a free drum sampler offering the powerful, high-quality
 
 Supported platforms: Windows, Mac
 
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+
 [Download](https://www.powerdrumkit.com/)
 
 ## Sample Library Loaders
@@ -28,6 +30,8 @@ Supported platforms: Windows, Mac
 A FREE sampling plugin that allows you to play samples in the Decent Sampler format.
 
 Supported platforms: Windows, Mac
+
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
 [Download](https://www.decentsamples.com/product/decent-sampler-plugin/)
 
@@ -44,6 +48,8 @@ Supported platforms: Windows, Mac
 Sforzando is a free, highly SFZ 2.0 compliant sample player.
 
 Supported platforms: Windows, Mac
+
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
 [Download](https://plogue.com/downloads.html)
 
@@ -115,6 +121,8 @@ Plugin Formats: VST2, LV2
 
 Supported platforms: Windows
 
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+
 [Download](https://vtaramps.blogspot.com/2019/12/jump.html)
 
 ### Kapitonov Plugins Pack
@@ -127,6 +135,8 @@ Supported platforms: Windows
 
 Supported platforms: Windows
 
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+
 [Download](https://vtaramps.blogspot.com/2015/05/super-sonic.html)
 
 ### The Knight
@@ -134,6 +144,8 @@ Supported platforms: Windows
 "This one simulates a preamp of allegedly — Baron K88 with some mod. One of the first of amp sims featuring first versions of my harmonics synthesis system."
 
 Supported platforms: Windows
+
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
 [Download](https://pvdhp7.wordpress.com/)
 
@@ -161,6 +173,8 @@ LeCab2 is a cabinet (guitar or bass) impulse loader.
 
 Supported platforms: Windows, 32-bit Mac
 
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+
 [Download](https://plugins4free.com/plugin/958/)
 
 ### NadIR
@@ -168,6 +182,8 @@ Supported platforms: Windows, 32-bit Mac
 "The NadIR dual Impulse Response (IR) convolver, designed to be used as a cabinet simulator for guitar and bass (pre)amplifiers (VST/AU or even hardware), with ZERO latency. Providing advanced built-in filters and delay controls to let user's shape their tone with ease."
 
 Supported platforms: Windows, Mac
+
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
 [Download](https://www.stltones.com/products/stl-ignite-emissary-plug-in-bundle)
 
@@ -195,6 +211,8 @@ Bus compressor. "Density mkII was primarily designed to work in a typical stereo
 
 Supported platforms: Windows
 
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+
 [Download](https://varietyofsound.wordpress.com/downloads/)
 
 ### Kotelinov
@@ -203,6 +221,8 @@ TDR Kotelnikov is a wideband dynamics processor combining high fidelity dynamic 
 
 Supported platforms: Windows, Mac
 
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+
 [Download](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ### Molotok
@@ -210,6 +230,8 @@ Supported platforms: Windows, Mac
 Molotok, a simplified version of TDR Molot GE, is a musically characterful dynamics processor.
 
 Supported platforms: Windows, Mac
+
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
 [Download](https://www.tokyodawn.net/tdr-molotok/)
 
@@ -249,6 +271,8 @@ NOVA is a parallel dynamic equalizer.
 
 Supported platforms: Mac, Windows
 
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+
 [Download](https://www.tokyodawn.net/tdr-nova/)
 
 ### SlickEQ
@@ -256,6 +280,8 @@ Supported platforms: Mac, Windows
 "TDR VOS SlickEQ is a mixing/mastering equalizer designed for ease of use, musical flexibility and impeccable sound."
 
 Supported platforms: Mac, Windows
+
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
 [Download](https://www.tokyodawn.net/tdr-vos-slickeq/)
 
@@ -349,6 +375,8 @@ Included plugins:
 
 Supported platforms: Windows
 
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+
 [Download](https://www.reaper.fm/reaplugs/)
 
 # Samples/Sample Libraries
@@ -393,5 +421,7 @@ Supported plugin formats:
  - LADSPA
 
 Supported platforms: Linux, Windows, Mac
+
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
 [Download (requires account)](https://www.tracktion.com/products/waveform-free)
