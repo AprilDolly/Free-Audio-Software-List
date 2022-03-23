@@ -15,6 +15,8 @@ Supported platforms: Windows, Mac
 
 ### JuiceSFPlugin
 
+juicysfplugin is a cross-platform audio plugin for playing MIDI music through a soundfont synthesizer.
+
 Supported platforms: Windows, Mac
 
 [Download](https://github.com/Birch-san/juicysfplugin/releases/tag/3.1.0)
