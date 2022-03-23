@@ -171,6 +171,14 @@ Supported platforms: Linux, Mac, Windows (only Tremolo)
 
 ## Ardour
 
+Ardour is an open source, collaborative effort of a worldwide team including musicians, programmers, and professional recording engineers.
+
+Supported plugin formats: AU, LV2, LADSPA, VST
+
+Supported platforms: Linux, Mac, Windows
+
+[Download (source code is free, binaries cost $45)](https://community.ardour.org/download)
+
 ## LMMS
 
 LMMS is a free, open source, multiplatform digital audio workstation.
