@@ -12,6 +12,16 @@ Format: SF2
 
 [Download](https://github.com/AprilDolly/Free-Audio-Software-List/raw/main/bass%20fender%20jazz%20(1%2C379kb).sf2)
 
+## Electric Guitar
+
+### Soft Ibanez
+
+"I was really curious to know what could happen if I was to grab my Ibanez RG guitar, program a clean sound on my pedal board and record… so I did it. I wish I had a room mic to get all the reverb of my room, but since I just couldn’t do it that way, I captured an impulse/response and used a convolution plugin to recreate a fake room mic."
+
+Format: SFZ
+
+[Download (requires account)](https://www.pianobook.co.uk/packs/soft-ibanez/)
+
 ## Harpsichord
 
 ### The Blanchet 1720
