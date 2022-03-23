@@ -12,15 +12,41 @@ Format: SF2
 
 [Download](https://github.com/AprilDolly/Free-Audio-Software-List/raw/main/bass%20fender%20jazz%20(1%2C379kb).sf2)
 
+## Drums
+
+### Virtuosity Drums
+
+Virtuosity Drums is an open source (Creative Commons 0) contemporary Jazz drum kit library, performed with sticks, recorded at Virtuosity Musical Instruments in Boston, MA.
+
+Format: SFZ
+
+[Download](https://vis.versilstudios.com/virtuosity-drums.html)
+
 ## Electric Guitar
+
+### Emilyguitar
+
+"A simple general-purpose guitar library. It's designed to be easy to use for producers who don't necessarily know a lot about guitars and don't need a whole lot of different articulations, control over left-hand position, note off groups etc."
+
+Format: SFZ
+
+[Download](https://shop.karoryfer.com/pages/free-emilyguitar)
 
 ### fakeguitar
 
-An electric guitar SFZ Library. No post-processing, so you have the freedom to use whatever amp sim you wish.
+An electric guitar SFZ Library with 3 articulations. No post-processing, so you have the freedom to use whatever amp sim you wish.
 
 Format: SFZ
 
 [Download](https://github.com/AprilDolly/fakeguitar/archive/refs/heads/main.zip)
+
+### Shinyguitar
+
+"A shiny black archtop guitar, and our first library to get a graphical user interface. We sampled both the direct output from the pickup, and the acoustic sound recorded with a microphone."
+
+Format: SFZ
+
+[Download](https://shop.karoryfer.com/pages/free-shinyguitar)
 
 ### Soft Ibanez
 
