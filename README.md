@@ -313,6 +313,10 @@ Supported platforms: Windows
 
 [Download](https://www.reaper.fm/reaplugs/)
 
+# Samples/Sample Libraries
+
+The list of free sample libraries will eventually become too large given their abundance, so they are listed in a separate document [here.](https://github.com/AprilDolly/Free-Audio-Software-List/blob/main/free_sample_libraries.md)
+
 # DAWs/Sequencers
 
 ## Ardour
