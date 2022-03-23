@@ -1,5 +1,5 @@
 # Free Audio Software List
-A list of free audio software with descriptions and download links.
+A list of free audio production and composition software with descriptions and download links.
 
 # Instrument Plugins
 
@@ -12,6 +12,14 @@ avldrums.lv2 is a drum sample player plugin dedicated to Glen MacArthur's AVLdru
 Supported platforms: Linux, Windows, Mac
 
 [Download](https://x42-plugins.com/x42/x42-avldrums)
+
+### MT Power Drum Kit
+
+The MT Power Drum Kit is a free drum sampler offering the powerful, high-quality sounds of an acoustic, realistic drum kit. Samples have been specially recorded and processed to make them ideally suited for use in pop, rock and metal productions.
+
+Supported platforms: Windows, Mac
+
+[Download](https://www.powerdrumkit.com/)
 
 ## Sample Library Loaders
 
@@ -48,6 +56,14 @@ Supported platforms: Linux, Windows, Mac
 [Download](https://sfz.tools/sfizz/downloads)
 
 ## Synthesizers
+
+### Cardinal
+
+Cardinal is a free and open-source virtual modular synthesizer plugin, available as JACK standalone and AU, LV2, VST2 and VST3 audio plugin for FreeBSD, Linux, macOS and Windows.
+
+Supported platforms: Linux, Windows, Mac
+
+[Download](https://github.com/DISTRHO/Cardinal/releases)
 
 ### Kars
 
@@ -87,6 +103,68 @@ Plugin Formats: VST2, LV2
 
 ## Amp Simulators
 
+### Jump
+
+"Jump is a VST that aims to reproduce Tomato beyond its original capabilities that was originally designed by Igor Shaev in Lithuania, 2002."
+
+Supported platforms: Windows
+
+[Download](https://vtaramps.blogspot.com/2019/12/jump.html)
+
+### Kapitonov Plugins Pack
+
+(scroll down to Plugin Bundles section of this document)
+
+### Super Sonic
+
+"This sim is based upon the preamp of bogner uberschall with overdrive channel engaged."
+
+Supported platforms: Windows
+
+[Download](https://vtaramps.blogspot.com/2015/05/super-sonic.html)
+
+### The Knight
+
+"This one simulates a preamp of allegedly — Baron K88 with some mod. One of the first of amp sims featuring first versions of my harmonics synthesis system."
+
+Supported platforms: Windows
+
+[Download](https://pvdhp7.wordpress.com/)
+
+## Cab Simulators & Impulse Convolution Reverbs
+
+### HybridReverb2
+
+Reverb effect using hybrid impulse convolution
+
+Supported platforms: Linux
+
+[Download](https://kx.studio/Repositories:Plugins)
+
+### KlangFalter
+
+convolution audio plugin
+
+Supported platforms: Linux
+
+[Download](https://distrho.sourceforge.io/ports.php)
+
+### LeCab2
+
+LeCab2 is a cabinet (guitar or bass) impulse loader.
+
+Supported platforms: Windows, 32-bit Mac
+
+[Download](https://plugins4free.com/plugin/958/)
+
+### NadIR
+
+"The NadIR dual Impulse Response (IR) convolver, designed to be used as a cabinet simulator for guitar and bass (pre)amplifiers (VST/AU or even hardware), with ZERO latency. Providing advanced built-in filters and delay controls to let user's shape their tone with ease."
+
+Supported platforms: Windows, Mac
+
+[Download](https://www.stltones.com/products/stl-ignite-emissary-plug-in-bundle)
+
 ## Compression
 
 ### Compressive
@@ -125,7 +203,15 @@ Supported platforms: Linux, Windows
 
 ## Distortion
 
-## EQ
+### Mod Distortion
+
+analog distortion emulation plugin
+
+Supported platforms: Linux
+
+[Download](https://kx.studio/Repositories:Plugins)
+
+## Equalization
 
 ### Luftikus
 
@@ -169,6 +255,28 @@ Supported platforms: Linux
 
 [Download](https://calf-studio-gear.org/)
 
+### DISTRHO Mini-Series
+
+A small collection of small but useful plugins, based on the good old "LOSER-Dev Plugins".
+
+Included plugins:
+
+- 3-Band EQ
+- 3-Band Splitter
+- Ping Pong Pan
+
+[Download](https://distrho.sourceforge.io/plugins.php)
+
+### dRow Plugins 
+
+Includes distortion, flanger, reverb, distortion shaper, and tremolo.
+
+Supported platforms: Linux, Mac, Windows (only Tremolo)
+
+[Downloads (Linux)](https://distrho.sourceforge.io/ports.php)
+
+[Downloads (Mac & Windows)](http://www.drowaudio.co.uk/products.php)
+
 ### Kapitonov Plugins Pack
 
 Bundle of electric guitar effects plugins. Includes the following:
@@ -185,15 +293,25 @@ Supported platforms: Linux (LV2), Windows & Mac (VST3)
 
 [Download](https://kpp-tubeamp.com/downloads)
 
-### dRow Plugins 
+### ReaPlugs
 
-Includes distortion, flanger, reverb, distortion shaper, and tremolo.
+"Want to use some of the comprehensive FX plug-ins that REAPER provides, but stuck in another host? Haven't made the switch yet? Fear not -- you can download ReaPlugs, a package of FX that includes many of the plug-ins that come with REAPER, for free!"
 
-Supported platforms: Linux, Mac, Windows (only Tremolo)
+Included plugins:
 
-[Downloads (Linux)](https://distrho.sourceforge.io/ports.php)
+- ReaComp (compressor)
+- ReaXcomp (multiband compressor)
+- ReaDelay (delay)
+- ReaEQ (equalizer)
+- ReaFIR (FFT-based dynamics processor)
+- ReaGate (noise gate)
+- ReaStream (plugin for sending audio and midi signals over LAN)
+- ReaJS ("Realtime user-editable effect processor")
+- ReaControlMIDI ("Flexible MIDI controls in VST format")
 
-[Downloads (Mac & Windows)](http://www.drowaudio.co.uk/products.php)
+Supported platforms: Windows
+
+[Download](https://www.reaper.fm/reaplugs/)
 
 # DAWs/Sequencers
 
