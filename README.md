@@ -11,7 +11,7 @@ avldrums.lv2 is a drum sample player plugin dedicated to Glen MacArthur's AVLdru
 
 Supported platforms: Linux, Windows, Mac
 
-[Download](https://x42-plugins.com/x42/x42-avldrums)
+**[Download](https://x42-plugins.com/x42/x42-avldrums)**
 
 ### MT Power Drum Kit
 
@@ -21,7 +21,7 @@ Supported platforms: Windows, Mac
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://www.powerdrumkit.com/)
+**[Download](https://www.powerdrumkit.com/)**
 
 ## Sample Library Loaders
 
@@ -33,7 +33,7 @@ Supported platforms: Windows, Mac
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://www.decentsamples.com/product/decent-sampler-plugin/)
+**[Download](https://www.decentsamples.com/product/decent-sampler-plugin/)**
 
 ### JuiceSFPlugin
 
@@ -43,7 +43,7 @@ Supported platforms: Windows, Mac
 
 **[Source Code](https://github.com/Birch-san/juicysfplugin)**
 
-[Download](https://github.com/Birch-san/juicysfplugin/releases/tag/3.1.0)
+**[Download](https://github.com/Birch-san/juicysfplugin/releases/tag/3.1.0)**
 
 ### Sforzando
 
@@ -53,7 +53,7 @@ Supported platforms: Windows, Mac
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://plogue.com/downloads.html)
+**[Download](https://plogue.com/downloads.html)**
 
 ### Sfizz
 
@@ -63,7 +63,7 @@ Supported platforms: Linux, Windows, Mac
 
 **[Source code](https://github.com/sfztools/sfizz)**
 
-[Download](https://sfz.tools/sfizz/downloads)
+**[Download](https://sfz.tools/sfizz/downloads)**
 
 ## Samplers
 
@@ -75,7 +75,7 @@ Supported platforms: Windows
 
 **[Source code](https://github.com/s-oram/Grace)**
 
-[Download](https://www.onesmallclue.com/)
+**[Download](https://www.onesmallclue.com/)**
 
 ### Sitala
 
@@ -85,7 +85,7 @@ Supported platforms: Linux, Windows, Mac
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://decomposer.de/sitala/#downloads)
+**[Download](https://decomposer.de/sitala/#downloads)**
 
 ## Synthesizers
 
@@ -97,7 +97,7 @@ Supported platforms: Linux, Windows, Mac
 
 **[Source code](https://github.com/DISTRHO/Cardinal)**
 
-[Download](https://github.com/DISTRHO/Cardinal/releases)
+**[Download](https://github.com/DISTRHO/Cardinal/releases)**
 
 ### Kars
 
@@ -107,7 +107,7 @@ It implements the basic Karplus-Strong plucked-string synthesis algorithm (Kevin
 
 **[Source code](https://github.com/DISTRHO/Kars)**
 
-[Download](https://distrho.sourceforge.io/plugins.php)
+**[Download](https://distrho.sourceforge.io/plugins.php)**
 
 ### Nekobi
 
@@ -117,7 +117,7 @@ Supported platforms: Linux, Windows, Mac
 
 **[Source code](https://github.com/DISTRHO/Nekobi)**
 
-[Download](https://distrho.sourceforge.io/plugins.php)
+**[Download](https://distrho.sourceforge.io/plugins.php)**
 
 ### Surge
 
@@ -125,7 +125,7 @@ Supported platforms: Linux, Windows, Mac
 
 **[Source code](https://github.com/surge-synthesizer/surge)**
 
-[Download](https://surge-synthesizer.github.io/downloads)
+**[Download](https://surge-synthesizer.github.io/downloads)**
 
 ### Vital
 
@@ -135,7 +135,7 @@ Supported platforms: Linux, Windows, Mac
 
 **[Source code](https://github.com/mtytel/vital)**
 
-[Download (requires making an account)](https://vital.audio/)
+**[Download (requires making an account)](https://vital.audio/)**
 
 ### ZynAddSubFX
 
@@ -147,7 +147,7 @@ Plugin Formats: VST2, LV2
 
 **[Source code](https://github.com/zynaddsubfx/zynaddsubfx)**
 
-[Download](https://zynaddsubfx.sourceforge.io/download.html)
+**[Download](https://zynaddsubfx.sourceforge.io/download.html)**
 
 # Effect Plugins
 
@@ -161,7 +161,7 @@ Supported platforms: Windows
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://vtaramps.blogspot.com/2019/12/jump.html)
+**[Download](https://vtaramps.blogspot.com/2019/12/jump.html)**
 
 ### Kapitonov Plugins Pack
 
@@ -175,7 +175,7 @@ Supported platforms: Windows
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://vtaramps.blogspot.com/2015/05/super-sonic.html)
+**[Download](https://vtaramps.blogspot.com/2015/05/super-sonic.html)**
 
 ### The Knight
 
@@ -185,7 +185,7 @@ Supported platforms: Windows
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://pvdhp7.wordpress.com/)
+**[Download](https://pvdhp7.wordpress.com/)**
 
 ## Cab Simulators & Impulse Convolution Reverbs
 
@@ -197,7 +197,7 @@ Supported platforms: Linux
 
 **[Source code](https://github.com/jpcima/HybridReverb2)**
 
-[Download](https://kx.studio/Repositories:Plugins)
+**[Download](https://kx.studio/Repositories:Plugins)**
 
 ### KlangFalter
 
@@ -207,7 +207,7 @@ Supported platforms: Linux
 
 **[Source code](https://github.com/HiFi-LoFi/KlangFalter)**
 
-[Download](https://distrho.sourceforge.io/ports.php)
+**[Download](https://distrho.sourceforge.io/ports.php)**
 
 ### LeCab2
 
@@ -217,7 +217,7 @@ Supported platforms: Windows, 32-bit Mac
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://plugins4free.com/plugin/958/)
+**[Download](https://plugins4free.com/plugin/958/)**
 
 ### NadIR
 
@@ -227,7 +227,7 @@ Supported platforms: Windows, Mac
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://www.stltones.com/products/stl-ignite-emissary-plug-in-bundle)
+**[Download](https://www.stltones.com/products/stl-ignite-emissary-plug-in-bundle)**
 
 ## Compression
 
@@ -239,7 +239,7 @@ Supported platforms: Windows
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)
+**[Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)**
 
 ### Compressive CM
 
@@ -249,7 +249,7 @@ Supported platforms: Windows, Mac
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)
+**[Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)**
 
 ### Density MkIII
 
@@ -259,7 +259,7 @@ Supported platforms: Windows
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://varietyofsound.wordpress.com/downloads/)
+**[Download](https://varietyofsound.wordpress.com/downloads/)**
 
 ### Kotelinov
 
@@ -269,7 +269,7 @@ Supported platforms: Windows, Mac
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://www.tokyodawn.net/tdr-kotelnikov/)
+**[Download](https://www.tokyodawn.net/tdr-kotelnikov/)**
 
 ### Molotok
 
@@ -279,7 +279,7 @@ Supported platforms: Windows, Mac
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://www.tokyodawn.net/tdr-molotok/)
+**[Download](https://www.tokyodawn.net/tdr-molotok/)**
 
 ## Delay
 
@@ -291,7 +291,7 @@ Supported platforms: Linux, Windows
 
 **[Source code](https://github.com/qbroquetas/IV-XDelay)**
 
-[Download (VST)](https://github.com/qbroquetas/IV-XDelay/releases/tag/v1.0.0)
+**[Download (VST)](https://github.com/qbroquetas/IV-XDelay/releases/tag/v1.0.0)**
 
 ## Distortion
 
@@ -303,7 +303,7 @@ Supported platforms: Linux
 
 will add source code link later, i know it exists but its buried somewhere
 
-[Download](https://kx.studio/Repositories:Plugins)
+**[Download](https://kx.studio/Repositories:Plugins)**
 
 ## Equalization
 
@@ -313,9 +313,9 @@ Luftikus is a digital adaptation of an analog EQ with fixed half-octave bands an
 
 **[Source code](https://github.com/lkjbdsp/lkjb-plugins)**
 
-[Download (Linux LV2 & VST)](https://kx.studio/Repositories:Plugins)
+**[Download (Linux LV2 & VST)](https://kx.studio/Repositories:Plugins)**
 
-[Downloads (Windows & Mac VST)](https://www.kvraudio.com/product/luftikus-by-lkjb/downloads)
+**[Downloads (Windows & Mac VST)](https://www.kvraudio.com/product/luftikus-by-lkjb/downloads)**
 
 ### NOVA
 
@@ -325,7 +325,7 @@ Supported platforms: Mac, Windows
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://www.tokyodawn.net/tdr-nova/)
+**[Download](https://www.tokyodawn.net/tdr-nova/)**
 
 ### SlickEQ
 
@@ -335,7 +335,7 @@ Supported platforms: Mac, Windows
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://www.tokyodawn.net/tdr-vos-slickeq/)
+**[Download](https://www.tokyodawn.net/tdr-vos-slickeq/)**
 
 ## Reverb
 
@@ -347,9 +347,9 @@ Supported platforms: Linux, Mac, Windows
 
 **[Source code](https://github.com/DISTRHO/MVerb)**
 
-[Download (Linux LV2)](https://distrho.sourceforge.io/ports.php)
+**[Download (Linux LV2)](https://distrho.sourceforge.io/ports.php)**
 
-[Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)
+**[Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)**
 
 ## Visualization
 
@@ -361,9 +361,9 @@ Supported platforms: Linux, Windows
 
 **[Source code](https://github.com/automatl/audio-dsp-multi-visualize/)**
 
-[Download (Linux)](https://distrho.sourceforge.io/ports.php)
+**[Download (Linux)](https://distrho.sourceforge.io/ports.php)**
 
-[Download (Windows)](https://au.tomatl.org/)
+**[Download (Windows)](https://au.tomatl.org/)**
 
 # Plugin Bundles
 
@@ -375,7 +375,7 @@ Supported platforms: Linux, Windows, Mac
 
 **[Source code](https://github.com/airwindows)**
 
-[Downloads](https://www.airwindows.com/)
+**[Downloads](https://www.airwindows.com/)**
 
 ### Calf Studio Gear
 
@@ -385,7 +385,7 @@ Supported platforms: Linux
 
 **[Source code](https://github.com/calf-studio-gear/calf)**
 
-[Download](https://calf-studio-gear.org/)
+**[Download](https://calf-studio-gear.org/)**
 
 ### DISTRHO Mini-Series
 
@@ -399,7 +399,7 @@ Included plugins:
 
 **[Source code](https://github.com/DISTRHO/Mini-Series)**
 
-[Download](https://distrho.sourceforge.io/plugins.php)
+**[Download](https://distrho.sourceforge.io/plugins.php)**
 
 ### dRow Plugins 
 
@@ -409,9 +409,9 @@ Supported platforms: Linux, Mac, Windows (only Tremolo)
 
 **[Source code](https://github.com/drowaudio/drowaudio)**
 
-[Downloads (Linux)](https://distrho.sourceforge.io/ports.php)
+**[Downloads (Linux)](https://distrho.sourceforge.io/ports.php)**
 
-[Downloads (Mac & Windows)](http://www.drowaudio.co.uk/products.php)
+**[Downloads (Mac & Windows)](http://www.drowaudio.co.uk/products.php)**
 
 ### Kapitonov Plugins Pack
 
@@ -429,7 +429,7 @@ Supported platforms: Linux (LV2), Windows & Mac (VST3)
 
 **[Source code](https://github.com/olegkapitonov/Kapitonov-Plugins-Pack)**
 
-[Download](https://kpp-tubeamp.com/downloads)
+**[Download](https://kpp-tubeamp.com/downloads)**
 
 ### ReaPlugs
 
@@ -451,7 +451,7 @@ Supported platforms: Windows
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download](https://www.reaper.fm/reaplugs/)
+**[Download](https://www.reaper.fm/reaplugs/)**
 
 # Samples/Sample Libraries
 
@@ -467,7 +467,7 @@ Supported plugin formats: AU, LV2, LADSPA, VST
 
 Supported platforms: Linux, Mac, Windows
 
-[Soursce code and Downloads (source code is free, binaries cost $45)](https://community.ardour.org/download)
+**[Soursce code and Downloads (source code is free, binaries cost $45. Most Linux distros should have Ardour in their repositories.)](https://community.ardour.org/download)**
 
 ## LMMS
 
@@ -484,7 +484,7 @@ Supported platforms: Linux, Windows, Mac
 
 **[Source code](https://github.com/LMMS/lmms)**
 
-[Download](https://lmms.io/download)
+**[Download](https://lmms.io/download)**
 
 ## Waveform Free
 
@@ -500,4 +500,4 @@ Supported platforms: Linux, Windows, Mac
 
 **[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
-[Download (requires account)](https://www.tracktion.com/products/waveform-free)
+**[Download (requires account)](https://www.tracktion.com/products/waveform-free)**
