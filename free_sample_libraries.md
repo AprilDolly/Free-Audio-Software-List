@@ -14,6 +14,14 @@ Format: SF2
 
 ## Electric Guitar
 
+### fakeguitar
+
+An electric guitar SFZ Library. No post-processing, so you have the freedom to use whatever amp sim you wish.
+
+Format: SFZ
+
+[Download](https://github.com/AprilDolly/fakeguitar/archive/refs/heads/main.zip)
+
 ### Soft Ibanez
 
 "I was really curious to know what could happen if I was to grab my Ibanez RG guitar, program a clean sound on my pedal board and record… so I did it. I wish I had a room mic to get all the reverb of my room, but since I just couldn’t do it that way, I captured an impulse/response and used a convolution plugin to recreate a fake room mic."
