@@ -41,7 +41,7 @@ Supported platforms: Linux, Windows, Mac
 
 ### ZynAddSubFX
 
-A synthesizer with many features.
+ZynAddSubFX is a fully featured open source software synthesizer capable of making a countless number of instruments, from some common heard from expensive hardware to interesting sounds that you'll boost to an amazing universe of sounds
 
 Supported platforms: Linux, Windows, and Mac.
 
@@ -51,7 +51,25 @@ Plugin Formats: VST2, LV2
 
 # Effect Plugins
 
+## Amp Simulators
+
 ## Bundles
+
+### Kapitonov Plugins Pack
+
+Bundle of electric guitar effects plugins. Includes the following:
+
+1) tubeAmp. Advanced guitar tube amp emulator. Contains preamp, tonestack, power amp with voltage sag, cabinet emulators. Emulation parameters of each component are set by profile files.
+2) Bluedream. Booster/Tube Screamer pedal with equalizer (tonestack). Has GUI
+3) Distruction. Distortion pedal with equalizer (tonestack). Has GUI.
+4) Fuzz. Vintage fuzz pedal. Has GUI.
+5) Deadgate. Effective Noise Gate/Dead Zone effect plugin.
+6) Octaver. Analog octaver pedal.
+7) Single2Humbucker. Plugin for emulation humbucker pickup sound with single coil pickup on the guitar. Useful for playing heavy-metal on Stratocaster guitar with single coil pickups.
+
+Supported platforms: Linux (LV2), Windows & Mac (VST3)
+
+[Download](https://kpp-tubeamp.com/downloads)
 
 ### dRow Plugins 
 
@@ -82,6 +100,14 @@ Supported platforms: Windows, Mac
 [Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)
 
 ## Delay
+
+### IV-X Delay
+
+IV-X Delay is a free and open source delay VST effect modelled after a renowned vintage tape recorder.
+
+Supported platforms: Linux, Windows
+
+[Download (VST)](https://github.com/qbroquetas/IV-XDelay/releases/tag/v1.0.0)
 
 ## Distortion
 
