@@ -41,6 +41,8 @@ juicysfplugin is a cross-platform audio plugin for playing MIDI music through a 
 
 Supported platforms: Windows, Mac
 
+**[Source Code](https://github.com/Birch-san/juicysfplugin)**
+
 [Download](https://github.com/Birch-san/juicysfplugin/releases/tag/3.1.0)
 
 ### Sforzando
@@ -59,6 +61,8 @@ sfizz is a sample-based musical synthesizer. It features the well-established SF
 
 Supported platforms: Linux, Windows, Mac
 
+**[Source code](https://github.com/sfztools/sfizz)**
+
 [Download](https://sfz.tools/sfizz/downloads)
 
 ## Synthesizers
@@ -69,6 +73,8 @@ Cardinal is a free and open-source virtual modular synthesizer plugin, available
 
 Supported platforms: Linux, Windows, Mac
 
+**[Source code](https://github.com/DISTRHO/Cardinal)**
+
 [Download](https://github.com/DISTRHO/Cardinal/releases)
 
 ### Kars
@@ -76,6 +82,8 @@ Supported platforms: Linux, Windows, Mac
 Simple karplus-strong plucked string synth.
 
 It implements the basic Karplus-Strong plucked-string synthesis algorithm (Kevin Karplus & Alex Strong, "Digital Synthesis of Plucked-String and Drum Timbres", Computer Music Journal 1983).
+
+**[Source code](https://github.com/DISTRHO/Kars)**
 
 [Download](https://distrho.sourceforge.io/plugins.php)
 
@@ -85,13 +93,17 @@ Nekobi is a simple single-oscillator synth based on the Roland TB-303.
 
 Supported platforms: Linux, Windows, Mac
 
+**[Source code](https://github.com/DISTRHO/Nekobi)**
+
 [Download](https://distrho.sourceforge.io/plugins.php)
 
 ### Surge
 
-Supported platforms: Linux (standalone and LV2,) Windows (standalone,) Mac (standalone)
+Supported platforms: Linux, Windows, Mac
 
-[Download](https://surge-synthesizer.github.io/)
+**[Source code](https://github.com/surge-synthesizer/surge)**
+
+[Download](https://surge-synthesizer.github.io/downloads)
 
 ### Vital
 
@@ -99,7 +111,9 @@ Spectral warping wavetable synth.
 
 Supported platforms: Linux, Windows, Mac
 
-[Download (requires making an account, throwaway emails should work.)](https://vital.audio/)
+**[Source code](https://github.com/mtytel/vital)**
+
+[Download (requires making an account)](https://vital.audio/)
 
 ### ZynAddSubFX
 
@@ -108,6 +122,8 @@ ZynAddSubFX is a fully featured open source software synthesizer capable of maki
 Supported platforms: Linux, Windows, and Mac.
 
 Plugin Formats: VST2, LV2
+
+**[Source code](https://github.com/zynaddsubfx/zynaddsubfx)**
 
 [Download](https://zynaddsubfx.sourceforge.io/download.html)
 
@@ -157,6 +173,8 @@ Reverb effect using hybrid impulse convolution
 
 Supported platforms: Linux
 
+**[Source code](https://github.com/jpcima/HybridReverb2)**
+
 [Download](https://kx.studio/Repositories:Plugins)
 
 ### KlangFalter
@@ -164,6 +182,8 @@ Supported platforms: Linux
 convolution audio plugin
 
 Supported platforms: Linux
+
+**[Source code](https://github.com/HiFi-LoFi/KlangFalter)**
 
 [Download](https://distrho.sourceforge.io/ports.php)
 
@@ -195,6 +215,8 @@ Suite of professional quality audio compressors. Includes Compressive Pro (exter
 
 Supported platforms: Windows
 
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+
 [Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)
 
 ### Compressive CM
@@ -202,6 +224,8 @@ Supported platforms: Windows
 External side chain analogue modeled RMS compressor with a brickwall limiter. The external side contains a 3-band EQ and mid/side controls to allow complete control of audio dynamics.
 
 Supported platforms: Windows, Mac
+
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
 
 [Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)
 
@@ -243,6 +267,8 @@ IV-X Delay is a free and open source delay VST effect modelled after a renowned 
 
 Supported platforms: Linux, Windows
 
+**[Source code](https://github.com/qbroquetas/IV-XDelay)**
+
 [Download (VST)](https://github.com/qbroquetas/IV-XDelay/releases/tag/v1.0.0)
 
 ## Distortion
@@ -253,6 +279,8 @@ analog distortion emulation plugin
 
 Supported platforms: Linux
 
+will add source code link later, i know it exists but its buried somewhere
+
 [Download](https://kx.studio/Repositories:Plugins)
 
 ## Equalization
@@ -260,6 +288,8 @@ Supported platforms: Linux
 ### Luftikus
 
 Luftikus is a digital adaptation of an analog EQ with fixed half-octave bands and additional high frequency boost. As an improvement to the hardware it allows deeper cuts and supports a keep-gain mode where overall gain changes are avoided.
+
+**[Source code](https://github.com/lkjbdsp/lkjb-plugins)**
 
 [Download (Linux LV2 & VST)](https://kx.studio/Repositories:Plugins)
 
@@ -293,6 +323,8 @@ Studio quality, open-source reverb. Its release was intended to provide a practi
 
 Supported platforms: Linux, Mac, Windows
 
+**[Source code](https://github.com/DISTRHO/MVerb)**
+
 [Download (Linux LV2)](https://distrho.sourceforge.io/ports.php)
 
 [Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)
@@ -304,6 +336,8 @@ Supported platforms: Linux, Mac, Windows
 Easy Sound Space Perception is a small and lightweight audio visualization tool, which currently provides spectrometer and goniometer views. The main advantage of this tool is that it can render information about up to four stereo pairs at the same time onto the same surface using different colors (see screenshots). And more cool features are on the way, that's for sure. 
 
 Supported platforms: Linux, Windows
+
+**[Source code](https://github.com/automatl/audio-dsp-multi-visualize/)**
 
 [Download (Linux)](https://distrho.sourceforge.io/ports.php)
 
@@ -317,6 +351,8 @@ A large bundle of Linux-exclusive plugins.
 
 Supported platforms: Linux
 
+**[Source code](https://github.com/calf-studio-gear/calf)**
+
 [Download](https://calf-studio-gear.org/)
 
 ### DISTRHO Mini-Series
@@ -329,6 +365,8 @@ Included plugins:
 - 3-Band Splitter
 - Ping Pong Pan
 
+**[Source code](https://github.com/DISTRHO/Mini-Series)**
+
 [Download](https://distrho.sourceforge.io/plugins.php)
 
 ### dRow Plugins 
@@ -336,6 +374,8 @@ Included plugins:
 Includes distortion, flanger, reverb, distortion shaper, and tremolo.
 
 Supported platforms: Linux, Mac, Windows (only Tremolo)
+
+**[Source code](https://github.com/drowaudio/drowaudio)**
 
 [Downloads (Linux)](https://distrho.sourceforge.io/ports.php)
 
@@ -354,6 +394,8 @@ Bundle of electric guitar effects plugins. Includes the following:
 7) Single2Humbucker. Plugin for emulation humbucker pickup sound with single coil pickup on the guitar. Useful for playing heavy-metal on Stratocaster guitar with single coil pickups.
 
 Supported platforms: Linux (LV2), Windows & Mac (VST3)
+
+**[Source code](https://github.com/olegkapitonov/Kapitonov-Plugins-Pack)**
 
 [Download](https://kpp-tubeamp.com/downloads)
 
@@ -393,7 +435,7 @@ Supported plugin formats: AU, LV2, LADSPA, VST
 
 Supported platforms: Linux, Mac, Windows
 
-[Download (source code is free, binaries cost $45)](https://community.ardour.org/download)
+[Soursce code and Downloads (source code is free, binaries cost $45)](https://community.ardour.org/download)
 
 ## LMMS
 
@@ -407,6 +449,8 @@ Supported plugin formats:
  - LV2 (Effects only, custom GUIs not supported)
 
 Supported platforms: Linux, Windows, Mac
+
+**[Source code](https://github.com/LMMS/lmms)**
 
 [Download](https://lmms.io/download)
 
