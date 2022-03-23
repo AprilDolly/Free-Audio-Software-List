@@ -65,6 +65,28 @@ Supported platforms: Linux, Windows, Mac
 
 [Download](https://sfz.tools/sfizz/downloads)
 
+## Samplers
+
+### Grace
+
+Grace is a sampler designed for people who make their own patches. 
+
+Supported platforms: Windows
+
+**[Source code](https://github.com/s-oram/Grace)**
+
+[Download](https://www.onesmallclue.com/)
+
+### Sitala
+
+Sitala is a free drum plugin and standalone app
+
+Supported platforms: Linux, Windows, Mac
+
+**[Source code unavailable.](https://www.gnu.org/philosophy/free-software-even-more-important.html)**
+
+[Download](https://decomposer.de/sitala/#downloads)
+
 ## Synthesizers
 
 ### Cardinal
