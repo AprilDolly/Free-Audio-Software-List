@@ -1,9 +1,7 @@
 # Free Audio Software List
 A list of free audio software with descriptions and download links.
 
-# Plugins
-
-# Instruments
+# Instrument Plugins
 
 ## Sample Library Loaders
 
@@ -51,7 +49,7 @@ Plugin Formats: VST2, LV2
 
 [Download](https://zynaddsubfx.sourceforge.io/download.html)
 
-# Effects
+# Effect Plugins
 
 ## Bundles
 
