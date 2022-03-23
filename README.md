@@ -3,6 +3,16 @@ A list of free audio software with descriptions and download links.
 
 # Instrument Plugins
 
+## Drums
+
+### AVL Drumkits
+
+avldrums.lv2 is a drum sample player plugin dedicated to Glen MacArthur's AVLdrums. This self-contained plugin provides a convenient way to rapidly sequence and mix midi-drums.
+
+Supported platforms: Linux, Windows, Mac
+
+[Download](https://x42-plugins.com/x42/x42-avldrums)
+
 ## Sample Library Loaders
 
 ### Decent Sampler
@@ -95,6 +105,14 @@ Supported platforms: Windows, Mac
 
 [Download (VST)](https://rekkerd.org/martin-eastwood-audio-free-plugins/)
 
+### Density MkIII
+
+Bus compressor. "Density mkII was primarily designed to work in a typical stereo audio group mixing situation or for summing and to glue all things together in an unobtrusive way."
+
+Supported platforms: Windows
+
+[Download](https://varietyofsound.wordpress.com/downloads/)
+
 ## Delay
 
 ### IV-X Delay
@@ -108,6 +126,14 @@ Supported platforms: Linux, Windows
 ## Distortion
 
 ## EQ
+
+### Luftikus
+
+Luftikus is a digital adaptation of an analog EQ with fixed half-octave bands and additional high frequency boost. As an improvement to the hardware it allows deeper cuts and supports a keep-gain mode where overall gain changes are avoided.
+
+[Download (Linux LV2 & VST)](https://kx.studio/Repositories:Plugins)
+
+[Downloads (Windows & Mac VST)](https://www.kvraudio.com/product/luftikus-by-lkjb/downloads)
 
 ## Reverb
 
