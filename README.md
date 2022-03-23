@@ -197,6 +197,22 @@ Supported platforms: Windows
 
 [Download](https://varietyofsound.wordpress.com/downloads/)
 
+### Kotelinov
+
+TDR Kotelnikov is a wideband dynamics processor combining high fidelity dynamic range control with deep musical flexibility.
+
+Supported platforms: Windows, Mac
+
+[Download](https://www.tokyodawn.net/tdr-kotelnikov/)
+
+### Molotok
+
+Molotok, a simplified version of TDR Molot GE, is a musically characterful dynamics processor.
+
+Supported platforms: Windows, Mac
+
+[Download](https://www.tokyodawn.net/tdr-molotok/)
+
 ## Delay
 
 ### IV-X Delay
@@ -226,6 +242,22 @@ Luftikus is a digital adaptation of an analog EQ with fixed half-octave bands an
 [Download (Linux LV2 & VST)](https://kx.studio/Repositories:Plugins)
 
 [Downloads (Windows & Mac VST)](https://www.kvraudio.com/product/luftikus-by-lkjb/downloads)
+
+### NOVA
+
+NOVA is a parallel dynamic equalizer.
+
+Supported platforms: Mac, Windows
+
+[Download](https://www.tokyodawn.net/tdr-nova/)
+
+### SlickEQ
+
+"TDR VOS SlickEQ is a mixing/mastering equalizer designed for ease of use, musical flexibility and impeccable sound."
+
+Supported platforms: Mac, Windows
+
+[Download](https://www.tokyodawn.net/tdr-vos-slickeq/)
 
 ## Reverb
 
