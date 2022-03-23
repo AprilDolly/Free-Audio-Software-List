@@ -345,6 +345,16 @@ Supported platforms: Linux, Windows
 
 # Plugin Bundles
 
+### Airwindows
+
+Lots of effects (will add more info later.)
+
+Supported platforms: Linux, Windows, Mac
+
+**[Source code](https://github.com/airwindows)**
+
+[Downloads](https://www.airwindows.com/)
+
 ### Calf Studio Gear
 
 A large bundle of Linux-exclusive plugins.
