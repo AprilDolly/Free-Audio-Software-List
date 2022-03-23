@@ -81,6 +81,12 @@ Supported platforms: Linux, Windows, Mac
 
 [Download](https://distrho.sourceforge.io/plugins.php)
 
+### Surge
+
+Supported platforms: Linux (standalone and LV2,) Windows (standalone,) Mac (standalone)
+
+[Download](https://surge-synthesizer.github.io/)
+
 ### Vital
 
 Spectral warping wavetable synth.
