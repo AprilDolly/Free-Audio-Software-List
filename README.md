@@ -166,3 +166,36 @@ Supported platforms: Linux, Mac, Windows (only Tremolo)
 [Downloads (Linux)](https://distrho.sourceforge.io/ports.php)
 
 [Downloads (Mac & Windows)](http://www.drowaudio.co.uk/products.php)
+
+# DAWs/Sequencers
+
+## Ardour
+
+## LMMS
+
+LMMS is a free, open source, multiplatform digital audio workstation.
+
+Supported plugin formats:
+
+ - LMMS (format for instruments and effects bundled with LMMS)
+ - VST2 (Can only load plugins built for Windows; [WINE](https://www.winehq.org/) is required to load VST2 plugins on Linux and Mac)
+ - LADSPA
+ - LV2 (Effects only, custom GUIs not supported)
+
+Supported platforms: Linux, Windows, Mac
+
+[Download](https://lmms.io/download)
+
+## Waveform Free
+
+"The world’s best, fully featured, completely unlimited free DAW for all music creators."
+
+Supported plugin formats:
+
+ - VST2
+ - VST3
+ - LADSPA
+
+Supported platforms: Linux, Windows, Mac
+
+[Download (requires account)](https://www.tracktion.com/products/waveform-free)
