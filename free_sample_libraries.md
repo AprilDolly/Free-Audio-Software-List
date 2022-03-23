@@ -24,6 +24,14 @@ Formats: SF2, Kontakt
 
 ## Orchestra
 
+### Orchestra Soundfont 2 COMBO
+
+An orchestra soundfont I downloaded a long timeago. Has been shared in numerous places since then.
+
+Format: SF2
+
+[Download](https://junkskool.net/ftp/sf2/orchestra%20soundfont%202%20combo.sf2)
+
 ### Sonatina Symphonic Orchestra
 
 Sonatina Symphonic Orchestra (SSO) is a free library of sampled orchestral instruments.
