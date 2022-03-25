@@ -45,6 +45,14 @@ Supported platforms: Windows, Mac
 
 **[Download](https://github.com/Birch-san/juicysfplugin/releases/tag/3.1.0)**
 
+### LinuxSampler
+
+"The LinuxSampler project was founded in 2002 with the goal to produce a free, streaming capable open source pure software audio sampler with high stability, efficiency and very low latency, providing professional grade features, comparable to both hardware and commercial Windows/Mac software samplers and to introduce new features not yet available by any other sampler in the world."
+
+Supported platforms: Linux, Windows, Mac
+
+**[Source code and Downloads](https://linuxsampler.org/downloads.html)**
+
 ### Sforzando
 
 Sforzando is a free, highly SFZ 2.0 compliant sample player.
